@@ -1,3 +1,5 @@
+<img width="1860" height="929" alt="image" src="https://github.com/user-attachments/assets/f77be168-1f26-4f15-9481-28df79dde15c" />
+
 # EcoScan — Ecosystem Biodiversity Explorer
 
 A Streamlit web app that queries the GBIF API for species occurrence records, 
@@ -9,6 +11,9 @@ Built as part of a research project investigating whether species occurrence
 patterns alone can characterise ecosystem structure and biodiversity gradients 
 across a defined study area.
 
+<img width="1392" height="484" alt="image" src="https://github.com/user-attachments/assets/ea285bad-d135-4afc-b8f0-8fba28772df0" />
+
+
 ## Features
 
 - Query any area worldwide using a bounding box or preset UK study areas
@@ -18,6 +23,11 @@ across a defined study area.
 - Interactive Folium map with per-cell popup details
 - Optional AI-generated ecological interpretation per cell (Claude API)
 - Export results as CSV
+
+<img width="296" height="558" alt="image" src="https://github.com/user-attachments/assets/daa7525c-7817-45da-8dd6-085cae541014" />
+
+
+
 
 ## Preset study areas
 
