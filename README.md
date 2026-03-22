@@ -77,8 +77,5 @@ See report for full methodological discussion.
 - Anthropic Claude API (optional)
 ```
 
----
-
-**GitHub About box** (the short description in the right sidebar of your repo — Settings → About):
 ```
 Biodiversity pattern analysis from GBIF occurrence data — ML clustering + AI ecological interpretation. Built with Streamlit.
